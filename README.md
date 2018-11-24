@@ -1,6 +1,6 @@
-## Multiply Console APP
+# Multiply Console APP
 
-# RUN
+## Run app
 
 ```
     npm install
